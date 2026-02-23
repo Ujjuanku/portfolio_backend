@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "name": "Ujjwal Jha",
+        "location": "Hyderabad, India",
+        "phone": "7260059459",
+        "role": "Generative AI & Full-Stack Engineer",
+        "summary": "Generative AI & Full-Stack Engineer with 2 years of experience building production-grade AI systems, scalable ingestion engines, and high-integrity transactional platforms. Specialized in Agentic AI systems, Retrieval-Augmented Generation (RAG), concurrency-safe architectures, and distributed backend systems."
+    },
+    "experience": [
+        {
+            "role": "GenAI Engineer (Full-Stack)",
+            "company": "Bosch Global Software Technologies",
+            "location": "Hyderabad",
+            "duration": "Aug 2025 - Present",
+            "highlights": [
+                "Architected multi-agent AI systems using LangChain and LangGraph with dynamic tool orchestration.",
+                "Designed and deployed production-grade RAG pipelines (ingestion -> chunking -> embeddings -> hybrid retrieval -> grounded generation).",
+                "Reduced hallucination rate by 30% through structured prompt evaluation and response validation workflows.",
+                "Built scalable FastAPI services with async execution and OpenAPI documentation.",
+                "Containerized AI services using Docker for enterprise deployment."
+            ]
+        },
+        {
+            "role": "Full-Stack Engineer",
+            "company": "Bosch Global Software Technologies",
+            "location": "Hyderabad",
+            "duration": "Jan 2025 - Aug 2025",
+            "highlights": [
+                "Developed modular backend services using Node.js and Spring Boot within microservices architecture.",
+                "Optimized SQL indexing strategies reducing API latency by 20%.",
+                "Implemented secure coding practices and CI-based deployment workflows."
+            ]
+        },
+        {
+            "role": "Full-Stack Developer",
+            "company": "ABL Education",
+            "location": "Noida",
+            "duration": "Mar 2024 - Dec 2024",
+            "highlights": [
+                "Built React-based full-stack web applications with REST APIs.",
+                "Improved backend performance by 25% through query optimization and efficient data modeling."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "IntelliTrack - AI-Powered Competitive Intelligence Platform",
+            "description": "A SaaS-grade system that tracks competitor pricing, documentation, and changelog changes using smart paragraph-level diffing and LLM-based strategic categorization."
+        },
+        {
+            "title": "High-Integrity Wallet & Double-Entry Ledger System",
+            "description": "A concurrency-safe transactional wallet system using ACID compliance, pessimistic locking (SELECT FOR UPDATE), idempotency keys, and immutable ledger architecture."
+        },
+        {
+            "title": "High-Scale Energy Telemetry Ingestion Engine",
+            "description": "A high-throughput ingestion backend handling 14.4M daily telemetry records with hot/cold storage optimization and indexed analytics endpoints."
+        },
+        {
+            "title": "Acme Tech RAG Chatbot",
+            "description": "A full-stack Retrieval-Augmented Generation chatbot using Pinecone and OpenAI GPT for grounded enterprise knowledge retrieval."
+        },
+        {
+            "title": "Production-Grade RAG Knowledge Assistant (GenAI)",
+            "description": "Built an API-first Retrieval-Augmented Generation system for enterprise knowledge retrieval. Implemented document ingestion, chunking strategies, embeddings, and semantic vector search. Designed grounded AI responses with source attribution to minimize hallucinations. Deployed containerized services using Docker."
+        },
+        {
+            "title": "AI Insight Dashboard - Full-Stack Application",
+            "description": "Enterprise-style analytics dashboard built with React and Node.js featuring modular components and optimized API integrations."
+        }
+    ],
+    "skills": {
+        "Generative AI": [
+            "LangChain",
+            "LangGraph",
+            "OpenAI API",
+            "RAG pipelines",
+            "Hybrid Retrieval",
+            "Prompt Engineering",
+            "Embeddings",
+            "AI Agents"
+        ],
+        "Backend": [
+            "Python",
+            "FastAPI",
+            "Node.js",
+            "NestJS",
+            "Spring Boot"
+        ],
+        "Databases": [
+            "PostgreSQL",
+            "MongoDB",
+            "Pinecone",
+            "FAISS",
+            "Vector Databases"
+        ],
+        "DevOps": [
+            "Docker",
+            "Railway",
+            "Render",
+            "Vercel",
+            "Hugging Face Spaces"
+        ]
+    }
+}
