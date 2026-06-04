@@ -20,8 +20,8 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 # CORS configuration
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # allow all origins explicitly for Railway deployment
-    allow_credentials=True,
+    allow_origins=["*"], # allow all origins for production
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
