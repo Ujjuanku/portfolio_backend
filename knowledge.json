@@ -8,10 +8,22 @@
     },
     "experience": [
         {
+            "role": "Jr. AI/ML Engineer",
+            "company": "Enspirit Technology",
+            "location": "Hyderabad",
+            "duration": "Mar 2026 - May 2026",
+            "highlights": [
+                "Working on Aura – an intelligent automation platform powered by RAG-based architecture for dynamic document understanding and workflow automation.",
+                "Designed and implemented end-to-end document ingestion pipelines supporting multiple formats (PDF, DOCX, TXT) with automated chunking, embedding generation, and vector storage.",
+                "Built semantic retrieval workflows leveraging LLMs for grounded, context-aware response generation within the Aura platform.",
+                "Collaborated with cross-functional teams to integrate AI capabilities into product features, improving knowledge accessibility and retrieval accuracy."
+            ]
+        },
+        {
             "role": "GenAI Engineer (Full-Stack)",
             "company": "Bosch Global Software Technologies",
             "location": "Hyderabad",
-            "duration": "Aug 2025 - Present",
+            "duration": "Aug 2025 - Jan 2026",
             "highlights": [
                 "Architected multi-agent AI systems using LangChain and LangGraph with dynamic tool orchestration.",
                 "Designed and deployed production-grade RAG pipelines (ingestion -> chunking -> embeddings -> hybrid retrieval -> grounded generation).",
